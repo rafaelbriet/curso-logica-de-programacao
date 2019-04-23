@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosProposto1043
+namespace ExercicioProposto1043
 {
 
 	// DESCRIÇÃO: Lê três valores e se formarem um triângulo o programa calcula o perímentro do triângulo, caso contrário é calculado a áera de um trapézio.

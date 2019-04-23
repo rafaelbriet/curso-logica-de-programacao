@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosProposto1037
+namespace ExercicioProposto1037
 {
 	class Program
 	{

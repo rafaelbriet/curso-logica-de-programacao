@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosProposto1042
+namespace ExercicioProposto1042
 {
 	// DESCRIÇÃO: Lê três valores inteiros e ordena em ordem crescente.
 
